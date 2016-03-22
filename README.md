@@ -1,6 +1,6 @@
 # Requirements
 
-*☛ Python requirements for Humans ™*
+*☛ Python requirements made easy*
 
 [![Coverage Status](https://coveralls.io/repos/github/socketubs/requirements/badge.svg?branch=master)](https://coveralls.io/github/socketubs/requirements?branch=master)
 [![Build Status](https://travis-ci.org/socketubs/requirements.svg?branch=master)](https://travis-ci.org/socketubs/requirements)
