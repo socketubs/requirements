@@ -14,7 +14,7 @@ from requirements import r
 setup(
     name='your-package',
     version='0.0.1',
-    **r.requirements)
+    **r.dependencies)
 ```
 
 ### Features
